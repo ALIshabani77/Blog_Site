@@ -35,7 +35,7 @@ Get started with the following steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone 
+   git clone https://github.com/ALIshabani77/Blog_Site.git
    cd reponame
    
 
