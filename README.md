@@ -47,16 +47,17 @@ Get started with the following steps:
 
 3. **Apply Migrations**:
    Set up the initial database schema:
-   ```bash
+
    python manage.py migrate
    
 
 4. **Run the Development Server**:
    Launch the application locally:
-   ```bash
+
    python manage.py runserver
  
    Visit `http://localhost:8000/` in your browser to view the site.
+
   ```
 
 ## Usage
@@ -87,5 +88,3 @@ This project is licensed under the MIT License. For more details, see the [LICEN
 
 Thank you for checking out our Blog Website project! Feel free to reach out if you have any questions or suggestions.
 ```
-
-This version not only meets GitHub and Markdown standards but also ensures clarity and comprehensiveness, making it engaging for developers and visitors alike. You can customize the placeholders with specific details relevant to your repository. Let me know if you need any further modifications!
