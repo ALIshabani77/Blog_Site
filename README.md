@@ -34,7 +34,7 @@ To run this project, you'll need to have the following software:
 Get started with the following steps:
 
 1. **Clone the Repository**:
-   ```bash
+   
    git clone https://github.com/ALIshabani77/Blog_Site.git
    cd reponame
    
