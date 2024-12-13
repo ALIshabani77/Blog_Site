@@ -25,8 +25,8 @@ Welcome to the Blog Website! This project is a user-friendly blogging platform b
 
 To run this project, you'll need to have the following software:
 
-- Python 3.x
-- Django 3.x or newer
+- Python 
+- Django 
 - Basic HTML/CSS knowledge for potential design customization
 
 ## Installation and Setup
